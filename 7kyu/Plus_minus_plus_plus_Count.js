@@ -15,7 +15,7 @@ const arr = [1, -3, -4, 0, 5];
 
 const arr = [1, -3, -4, 0, 5];
 
-// My Solution
+// My Solution 
 const catchSignChange = (arr) => {
   let count = 0;
   let catchSignChange = arr.map((element, index, array) =>
